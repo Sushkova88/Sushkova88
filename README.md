@@ -49,7 +49,7 @@
 
 ### Контакты:
 
-- 📫 Связаться со мной можно по email: [email](mailto:petryaeva280488@gmail.com)
+- 📫 Связаться со мной можно по [email](mailto:petryaeva280488@gmail.com)
 - 🔗 Мой LinkedIn: [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
 - 💌 Telegram: [Telegram](https://t.me/anna88sushkova)
 - 💬 Skype: [Skype](https://skype.com/your-skype-id)
