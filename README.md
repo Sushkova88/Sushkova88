@@ -49,8 +49,8 @@
 ### Контакты:
 
 - 📫 Связаться со мной можно по [email](mailto:petryaeva280488@gmail.com)
-- 🔗 Мой LinkedIn: [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
-- 💌 Telegram: [Telegram](https://t.me/anna88sushkova)
-- 💬 ZOOM: [ZOOM](https://us05web.zoom.us/meeting#/upcoming)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+- 💌 [Telegram](https://t.me/anna88sushkova)
+- 💬 [ZOOM](https://us05web.zoom.us/meeting#/upcoming)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
