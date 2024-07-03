@@ -48,8 +48,8 @@
 
 ### Контакты:
 
-- 📫 Связаться со мной можно по [email](mailto:petryaeva280488@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+- 📫 [email](mailto:petryaeva280488@gmail.com)
+- 🔗 <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />[LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
 - 💌 [Telegram](https://t.me/anna88sushkova)
 - 💬 [ZOOM](https://us05web.zoom.us/meeting#/upcoming)
 
