@@ -38,15 +38,14 @@
 
 ## Артефакты тестирования:
 
-- Java Test Automation
-- Webshop testing
-- REST and SOAP API testing via Postman
-- MySQL
-- MongoDB
-- Android app testing
-- Replacing data with CharlesProxy
-- Bash
-- Git
+- Теория тестирования https://github.com/Sushkova88/theory/blob/main/README.md
+- Техники тест-дизайна https://github.com/Sushkova88/design/blob/main/README.md
+- Тестовая документация https://github.com/Sushkova88/docs/blob/main/README.md
+- Тестирование API https://github.com/Sushkova88/api/blob/main/README.md
+- Работа с базами данных https://github.com/Sushkova88/database/blob/main/README.md
+- Тестирование веб-приложений https://github.com/Sushkova88/-web/blob/main/README.md
+- Тестирование мобильных приложений https://github.com/Sushkova88/mobile/blob/main/README.md
+- Git и Bash https://github.com/Sushkova88/git_bash/blob/main/README.md
 
 ### Контакты:
 
