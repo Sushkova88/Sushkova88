@@ -39,14 +39,13 @@
 ## Артефакты тестирования:
 
 - <a href="https://github.com/Sushkova88/theory/blob/main/README.md">Теория тестирования</a>
-
-- Техники тест-дизайна https://github.com/Sushkova88/design/blob/main/README.md
-- Тестовая документация https://github.com/Sushkova88/docs/blob/main/README.md
-- Тестирование API https://github.com/Sushkova88/api/blob/main/README.md
-- Работа с базами данных https://github.com/Sushkova88/database/blob/main/README.md
-- Тестирование веб-приложений https://github.com/Sushkova88/-web/blob/main/README.md
-- Тестирование мобильных приложений https://github.com/Sushkova88/mobile/blob/main/README.md
-- Git и Bash https://github.com/Sushkova88/git_bash/blob/main/README.md
+- <a href="https://github.com/Sushkova88/design/blob/main/README.md">Техники тест-дизайна</a>
+- <a href="https://github.com/Sushkova88/docs/blob/main/README.md">Тестовая документация</a>
+- <a href="https://github.com/Sushkova88/api/blob/main/README.md">Тестирование API</a>
+- <a href="https://github.com/Sushkova88/database/blob/main/README.md">Работа с базами данных</a>
+- <a href="https://github.com/Sushkova88/-web/blob/main/README.md">Тестирование веб-приложений</a>
+- <a href="https://github.com/Sushkova88/mobile/blob/main/README.md"> Тестирование мобильных приложений</a>
+- <a href="https://github.com/Sushkova88/git_bash/blob/main/README.md"> Git и Bash </a>
 
 ### Контакты:
 
