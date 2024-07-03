@@ -49,8 +49,12 @@
 ### Контакты:
 
 - 📫 [email](mailto:petryaeva280488@gmail.com)
-- 🔗 <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />[LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
-- 💌 [Telegram](https://t.me/anna88sushkova)
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/anna88sushkova" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 - 💬 [ZOOM](https://us05web.zoom.us/meeting#/upcoming)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
