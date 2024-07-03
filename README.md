@@ -38,7 +38,8 @@
 
 ## Артефакты тестирования:
 
-- Теория тестирования https://github.com/Sushkova88/theory/blob/main/README.md
+- <a href="https://github.com/Sushkova88/theory/blob/main/README.md">Теория тестирования</a>
+
 - Техники тест-дизайна https://github.com/Sushkova88/design/blob/main/README.md
 - Тестовая документация https://github.com/Sushkova88/docs/blob/main/README.md
 - Тестирование API https://github.com/Sushkova88/api/blob/main/README.md
