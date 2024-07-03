@@ -1,4 +1,4 @@
-# An aspiring QA engineer striving for excellence 🌟
+# Hi, my name is Anna, i am a novice QA engineer striving for excellence 🌟
 
 Я QA инженер, и здесь я хочу поделиться своими проектами и навыками в области тестирования веб- и мобильных приложений.
 
