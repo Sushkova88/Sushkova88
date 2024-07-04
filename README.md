@@ -47,7 +47,7 @@
 - <a href="https://github.com/Sushkova88/mobile/blob/main/README.md"> Тестирование мобильных приложений</a>
 - <a href="https://github.com/Sushkova88/git_bash/blob/main/README.md"> Git и Bash </a>
 
-### Контакты:
+
 </p>
 <h3 align="center"> Как связаться со мной: </h3>
 <p align="center">
