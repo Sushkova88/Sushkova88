@@ -48,16 +48,6 @@
 - <a href="https://github.com/Sushkova88/git_bash/blob/main/README.md"> Git и Bash </a>
 
 ### Контакты:
-
-- 📫 [email](mailto:petryaeva280488@gmail.com)
-- 💬 [ZOOM](https://us05web.zoom.us/meeting#/upcoming)
-<div style="text-align: center;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/anna88sushkova" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-</div>
 </p>
 <h3 align="center"> Как связаться со мной: </h3>
 <p align="center">
