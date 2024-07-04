@@ -58,6 +58,13 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
 </div>
+</p>
+<h3 align="center"> Как связаться со мной: </h3>
+<p align="center">
+<a href= "https://www.linkedin.com/in/osukhorukova/"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/anna88sushkova"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:petryaeva280488@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+</p>
 
 
 
