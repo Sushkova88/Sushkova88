@@ -1,0 +1,11 @@
+# Игнорировать все файлы в папке Sushkova88.git
+Sushkova88.git/
+
+# Игнорировать файлы с расширением .gif
+*.gif
+
+# Игнорировать все файлы с именем image.png
+image.png
+
+# Игнорировать все файлы с именем subscription-svgrepo-com*.svg
+subscription-svgrepo-com*.svg
