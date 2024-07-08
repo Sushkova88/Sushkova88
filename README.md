@@ -7,6 +7,7 @@
 
 - 📱 Занимаюсь проектами на фрилансе
 - 🎓 Закончила <a href="https://rusau.net/"> курс </a> по функциональному тестированию
+- 📋 My <a href="https://docs.google.com/document/d/1HxKM8aBibYjrz_vGylrNsCEwjvMwMGU2U9KUQozaFa4/edit">CV</a> 
 - 🌍 Планирую изучать автоматизацию на Python
 - 💪 В свободное время занимаюсь спортом
 - 🎨 Люблю шить и вязать
