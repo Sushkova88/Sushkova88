@@ -6,7 +6,7 @@
 ## Несколько интересных фактов обо мне:
 
 - 📱 Занимаюсь проектами на фрилансе
-- 🎓 Закончила <a href="https://rusau.net/"> курс </a> по функциональному тестированию, <a href="https://rusau.net/check?gd=fbfefbc6-f8b6-4e87-9d35-1b0a6fbaef6d"> сертификат </a> об окончании
+- 🎓 Закончила <a href="https://rusau.net/"> курс </a> по функциональному тестированию, <a href="https://rusau.net/check?gd=fbfefbc6-f8b6-4e87-9d35-1b0a6fbaef6d"> мой сертификат </a> об окончании
 - 📋 My <a href="https://docs.google.com/document/d/1HxKM8aBibYjrz_vGylrNsCEwjvMwMGU2U9KUQozaFa4/edit">CV</a> 
 - 🌍 Планирую изучать автоматизацию на Python
 - 💪 В свободное время занимаюсь спортом
